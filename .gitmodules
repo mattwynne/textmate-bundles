@@ -4,3 +4,6 @@
 [submodule "Cucumber.tmbundle"]
 	path = Cucumber.tmbundle
 	url = git://github.com/bmabey/cucumber-tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
