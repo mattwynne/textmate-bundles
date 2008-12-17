@@ -747,6 +747,8 @@
 			      | ^while\s
 			      | ^unless\s
 			      | ^Given\s
+                    | ^When\s
+                    | ^Then\s
 			      )
 			   )
 			   \s*((/))(?![*+{}?])
