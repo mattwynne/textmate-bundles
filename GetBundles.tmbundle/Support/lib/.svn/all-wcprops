@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/11410/trunk/Review/Bundles/GetBundles.tmbundle/Support/lib
+END
+infoWindow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11309/trunk/Review/Bundles/GetBundles.tmbundle/Support/lib/infoWindow.rb
+END
+installBundles.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11408/trunk/Review/Bundles/GetBundles.tmbundle/Support/lib/installBundles.rb
+END
+globalVariables.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11410/trunk/Review/Bundles/GetBundles.tmbundle/Support/lib/globalVariables.rb
+END
