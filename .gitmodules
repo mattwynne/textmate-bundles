@@ -7,3 +7,6 @@
 [submodule "Git.tmbundle"]
 	path = Git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = git://github.com/textmate/ruby-haml.tmbundle.git
